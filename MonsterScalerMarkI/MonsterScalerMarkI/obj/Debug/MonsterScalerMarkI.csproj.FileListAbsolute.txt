@@ -1,1 +1,2 @@
 C:\Users\MusaabOYousif\Projects\MonsterScalerMarkI\MonsterScalerMarkI\bin\Debug\MonsterScalerMarkI.exe.config
+C:\Users\MusaabOYousif\Projects\monster-scaler\MonsterScalerMarkI\MonsterScalerMarkI\bin\Debug\MonsterScalerMarkI.exe.config
